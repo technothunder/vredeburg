@@ -5,8 +5,6 @@ A simple starter project to create a blog using Eleventy and Tailwind CSS
 
 ![sip](https://i.imgur.com/wGj2YZD.jpg)
 
-See demo [here](https://vredeburg.netlify.app)!
-
 ## Getting Started
 1. Clone this repository
 ```bash
